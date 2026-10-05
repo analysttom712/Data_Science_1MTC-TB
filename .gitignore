@@ -1,0 +1,19 @@
+# Course data files (not shared)
+data/
+*.csv
+*.xlsx
+*.xls
+*.rds
+*.RData
+
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+
+# Knitted output
+*.html
+*_cache/
+*_files/
